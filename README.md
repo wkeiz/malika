@@ -42,15 +42,15 @@
 
 Я стремлюсь постоянно развиваться, изучать новые технологии и создавать интересные проекты, которые помогут мне реализовать себя в сфере IT.
 
-## 🌐 Ссылка на портфолио
+## 🌐 Ссылки на проект
 
-[Открыть портфолио](https://wkeizportfolio.tilda.ws/)
+💼 **Портфолио:** [Открыть сайт](https://wkeizportfolio.tilda.ws/)
 
-## 🌐 Ссылка на Figma
+🎨 **Figma:** [Посмотреть макет](https://www.figma.com/make/Rn8p2X7uOuzzQPn6BY8Hia/Minimalist-Portfolio-Website?p=f&t=QmrYUqWKQ2N7e7xE-0)
 
-[Открыть портфолио](https://www.figma.com/make/Rn8p2X7uOuzzQPn6BY8Hia/Minimalist-Portfolio-Website?p=f&t=QmrYUqWKQ2N7e7xE-0)
 ---
 
 Спасибо за посещение моего портфолио! ✨
+
 
 
