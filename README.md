@@ -48,7 +48,7 @@
 
 ## 🌐 Ссылка на Figma
 
-[Открыть портфолио]([https://wkeizportfolio.tilda.ws/](https://www.figma.com/make/Rn8p2X7uOuzzQPn6BY8Hia/Minimalist-Portfolio-Website?p=f&t=QmrYUqWKQ2N7e7xE-0))
+[Открыть портфолио](https://www.figma.com/make/Rn8p2X7uOuzzQPn6BY8Hia/Minimalist-Portfolio-Website?p=f&t=QmrYUqWKQ2N7e7xE-0)
 ---
 
 Спасибо за посещение моего портфолио! ✨
